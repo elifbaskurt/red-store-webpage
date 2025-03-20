@@ -35,14 +35,10 @@ Red Store Webpage is a modern and responsive e-commerce website designed to show
 
 ```
 red-store-webpage/
-│── images/          # Contains all product and UI images
+│── img/          # Contains all product and UI images
 │── css/             # Contains the main stylesheet
-│── js/              # Contains JavaScript files for interactions
 │── index.html       # Homepage of the website
-│── product.html     # Individual product details page
-│── cart.html        # Shopping cart page
-│── contact.html     # Contact page
-└── about.html       # About page
+
 ```
 
 ## Contributions
